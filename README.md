@@ -16,4 +16,8 @@ __kjasgdbkasf__
 
 
 ![GitHub Logo](/4.jpg)
-Format : ![Alt Text](url)
+Format: ![Alt Text](url)
+
+
+http://github.com - automatic!
+[GitHub](http://github.com)
