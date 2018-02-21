@@ -32,6 +32,6 @@ As Kanye West said:
 I think you should use an
 `<addr>` element here instead.
 
-Username@
+@Username@
 asbd @mention
 @asdfg
